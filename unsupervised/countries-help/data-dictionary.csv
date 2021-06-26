@@ -1,11 +1,11 @@
 ﻿Column Name,Description
-country,Name of the country
-child_mort,Death of children under 5 years of age per 1000 live births
-exports,Exports of goods and services per capita. Given as %age of the GDP per capita
-health,Total health spending per capita. Given as %age of GDP per capita
-imports,Imports of goods and services per capita. Given as %age of the GDP per capita
-Income,Net income per person
-Inflation,The measurement of the annual growth rate of the Total GDP
-life_expec,The average number of years a new born child would live if the current mortality patterns are to remain the same
-total_fer,The number of children that would be born to each woman if the current age-fertility rates remain the same.
-gdpp,The GDP per capita. Calculated as the Total GDP divided by the total population.
+country,Nome do país
+child_mort,Morte de crianças menores de 5 anos de idade por 1000 nascidos vivos
+exports,Exportações de bens e serviços per capita. Dado como % da idade do PIB per capita
+health,Gasto total com saúde per capita. Dado como % da idade do PIB per capita
+imports,Importação de bens e serviços per capita. Dado como % da idade do PIB per capita
+Income,Renda líquida por pessoa
+Inflation,A medição da taxa de crescimento anual do PIB total
+life_expec,O número médio de anos que uma criança recém-nascida viveria se os padrões atuais de mortalidade permanecessem os mesmos
+total_fer,O número de filhos que nasceriam de cada mulher se as atuais taxas de fertilidade por idade permanecessem as mesmas.
+gdpp,O PIB per capita. Calculado como o PIB total dividido pela população total.
